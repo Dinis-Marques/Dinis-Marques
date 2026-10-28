@@ -21,5 +21,5 @@ I love taking new concepts, testing them out, and turning them into real, workin
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ---
-
+### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinis-catarino-marques-53855138b)
