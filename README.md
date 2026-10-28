@@ -23,3 +23,4 @@ I love taking new concepts, testing them out, and turning them into real, workin
 ---
 ### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinis-catarino-marques-53855138b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dcatmarques@gmail.com)
