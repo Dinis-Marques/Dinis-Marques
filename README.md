@@ -4,8 +4,8 @@ I'm starting my journey into the world of programming and development! 🚀
 
 I'm a person who enjoys learning and putting the things that i learn into practice.
 
-- 🔭 I'm currently learning: **[HTML, CSS, JavaScript, Python, React Native...]**
-- 🌱 I'm interested in: **[Mobile App Development, Web Scraping, AI Automation]**
+- 🔭 I'm currently learning: **HTML, CSS, JavaScript, Python, React Native...**
+- 🌱 I'm interested in: **Mobile App Development, Web Scraping, AI Automation**
 - 📫 How to reach me: **www.linkedin.com/in/dinis-catarino-marques-53855138b**
 
 ---
