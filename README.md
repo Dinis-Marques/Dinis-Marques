@@ -14,7 +14,7 @@ I love taking new concepts, testing them out, and turning them into real, workin
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,react,git,bots)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,react,git,bots,postgres)](https://skillicons.dev)
 
 ---
 ### 📫 How to reach me
