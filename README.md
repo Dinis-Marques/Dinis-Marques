@@ -7,14 +7,14 @@
 I'm starting my journey into the world of programming and development! 🚀  
 I love taking new concepts, testing them out, and turning them into real, working applications.
 
-- 🔭 **I'm currently learning:** HTML, CSS, JavaScript, Python, React Native
-- 🌱 **I'm interested in:** Mobile App Development, Web Scraping, AI Automation
+- **I'm currently learning:** HTML, CSS, JavaScript, Python, React Native (using Expo)
+- **I'm interested in:** Mobile App Development, Web Scraping, AI Automation
 
 ---
 
 ### 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,react,git,bots,postgres, expo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,react,git,bots,postgres)](https://skillicons.dev)
 
 ---
 ### 📫 How to reach me
